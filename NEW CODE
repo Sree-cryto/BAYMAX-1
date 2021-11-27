@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Webpage Design</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+   <div class="banner">
+       <div class="navbar">
+           <img src="logo.png" class="logo">
+               <ul>
+               </ul>
+           </div>
+           <div class="content">
+               <h1></h1>
+               <p>The pit stop for the tech geek in you</p>
+               <div>
+                   <button type="button"><span></span>PINBOARD</button>
+                   <button type="button"><span></span>RESOURCES</button>
+                   <button type="button"><span></span>EVENT</button>
+                   <button type="button"><span></span>CLUB</button>
+               </div>
+           </div>
+           </div>
+       </div>
+   </div>
+    
+</body>
+</html>
